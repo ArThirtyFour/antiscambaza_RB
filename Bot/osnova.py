@@ -5,7 +5,7 @@ api_id = 12345   #Пиши здесь api id
 api_hash='WQJFQHQKL' #api hash
 bot_token='Сюда вставляй токен бота'
 
-botur = Client('bdshka',api_id=22651452,api_hash=api_hash, bot_token=bot_token)
+botur = Client('bdshka',api_id=api_id,api_hash=api_hash, bot_token=bot_token)
 bd1 = sqlite3.connect('users.db', check_same_thread=False)
 cursor1 = bd1.cursor()
 cursor1.execute('CREATE TABLE IF NOT EXISTS users(id_iser BIGINT PRIMARY KEY , status INT , url TEXT )')
