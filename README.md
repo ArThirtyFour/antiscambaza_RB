@@ -1,22 +1,16 @@
-This is a project of a local anti-scam database for Roblox, written in Python using the Pyrogram module.
-______________________
+### This is a project of a local anti-scam database for Roblox, written in Python using the Pyrogram module.
 
-requirements.txt - Libaries
+> * **requirements.txt** - Libaries
+___
+> * **osnova.py** - Config Bot
+___
+> * **Modules**: Pyrogram and Datetime
+___
+### Это проект локальной анти-скам базы для Roblox, написанный на Python с использованием модуля Pyrogram.
 
-osnova.py - Config Bot
-
-____________________________________
-
-Modules: Pyrogram and Datetime
--  - - - - - - - - - - - - - - - - - - -
-
-Это проект локальной анти-скам базы для Roblox, написанный на Python с использованием модуля Pyrogram.
-______________________
-
-requirements.txt — Библиотеки
-
-osnova.py - Конфиг-бот
-
-____________________________________
-
-Модули: Pyrogram и Datetime
+> * **requirements.txt** — Библиотеки
+___
+> * **osnova.py** - Конфиг-бот
+___
+> * **Модули:** Pyrogram и Datetime
+___
